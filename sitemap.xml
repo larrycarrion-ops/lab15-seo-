@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://https://larrycarrion-ops-lab15-seo.vercel.app//</loc>
+    <loc>https://larrycarrion-ops-lab15-seo.vercel.app/</loc>
   </url>
+   <url>
+    <loc>https://larrycarrion-ops-lab15-seo.vercel.app/temario.html</loc>
+  </url> 
 </urlset>
